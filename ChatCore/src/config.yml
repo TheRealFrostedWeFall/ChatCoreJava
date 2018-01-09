@@ -2,9 +2,29 @@
 # Be sure to download the Skript version @ https://www.spigotmc.org/resources/1-11-1-12-2-%E2%98%85-chatcore-%E2%98%85-%E2%96%BAthe-best-chat-management-skript%E2%97%84.44229/ #
 # Feel free to enter any bad words that you would like to block #
 
-blockedwords:
+cursewords:
   - fuck
   - bitch
+  - wtf
+  - asshole
+  - cunt
+  - retard
+  - ass
+  - kys
+  - kill yourself
+  - die yourself
+  - shit
+  - piss
 
 
 #  Thank you for using my plugin, more updates coming soon.
+# Feel free to enter any blocked advertising words that you would like to block #
+
+adwords:
+  - .com
+  - .eu
+  - .nu
+  - .serv
+  - join
+  - .co.uk
+  - .net
