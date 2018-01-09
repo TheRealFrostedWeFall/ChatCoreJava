@@ -1,6 +1,8 @@
 # ChatCoreJava
 A Java version of ChatCore
 
+Join the official discord at https://discord.gg/Xh58kcY
+
 
 To do list:
 
