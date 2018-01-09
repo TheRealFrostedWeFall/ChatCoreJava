@@ -6,7 +6,7 @@ Join the official discord at https://discord.gg/Xh58kcY
 
 To do list:
 
-1. Start working on ChatCore Java Version
+1. Work on the clearchat feature
 2. Work on the "On Load" event
 3. Work on the plugin.yml
 4. Work on the chat mute event
