@@ -1,0 +1,10 @@
+# Welcome user, this is ChatCore, a all in one chat management plugin that started off in Skript which has now converted to Java #
+# Be sure to download the Skript version @ https://www.spigotmc.org/resources/1-11-1-12-2-%E2%98%85-chatcore-%E2%98%85-%E2%96%BAthe-best-chat-management-skript%E2%97%84.44229/ #
+# Feel free to enter any bad words that you would like to block #
+
+blockedwords:
+  - fuck
+  - bitch
+
+
+#  Thank you for using my plugin, more updates coming soon.
