@@ -15,7 +15,13 @@ public class Main extends JavaPlugin implements Listener {
         for (String word : e.getMessage().split(" ")) {
             if (getConfig().getStringList("cursewords").contains(word)) {
                 e.setCancelled(true);
-                e.getPlayer().sendMessage(ChatColor.RED + "Don't curse or use swear words!");
+                e.getPlayer().sendMessage(ChatColor.RED + "\nDon't curse or use swear words\n!");
+                for (String adword : e.getMessage().split(" ")) {
+                if (getConfig().getStringList("adwords").contains(word)) {
+                e.setCancelled(true);
+                e.getPlayer().sendMessage(ChatColor.RED + "\nDo not attempt to advertise\n!");
+                    }
+                }
             }
         }
     }
